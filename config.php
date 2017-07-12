@@ -1,7 +1,7 @@
 <?php
 $server_name = "localhost";
-$db_name = "bhargavc_police";
-$user_name = "siddhartha";
+$db_name = "roja_police";
+$user_name = "rojad";
 $db_pswd = "123456";
 $link = mysqli_connect($server_name,$user_name,$db_pswd,$db_name);
 if (!$link) {
